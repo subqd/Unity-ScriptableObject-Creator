@@ -19,7 +19,7 @@
 
 ### 需要unity 2019.3版本以上
 ### Requires Unity version 2019.3 or higher.
-
+--------------
 ### How to use
 -Install the package
 -Open the tab /Tools/SOCreator
