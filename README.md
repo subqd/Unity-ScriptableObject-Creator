@@ -26,4 +26,7 @@
 
 ### 如何使用
 -安装package
+
 -打开顶部栏 Tools/SOCreator
+
+![ReadMeScreenShot](https://github.com/user-attachments/assets/45a5b459-f879-4fc9-966b-09926372d47d)
