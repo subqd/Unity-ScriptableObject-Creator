@@ -1,0 +1,12 @@
+{
+    "name": "com.subqd.socreator",
+    "displayName": "ScriptableObject Creator",
+    "author": { "name": "subqd", "url": "https://github.com/subqd/Unity-ScriptableObject-Creator" },
+    "version": "1.0",
+    "unity": "2019.3",
+    "description": "lightweight ScriptableObject creator plugin",
+    "keywords": [ "Editor", "Tool"],
+    "license": "MIT",
+    "category": "Tool",
+    "dependencies": {}
+}
