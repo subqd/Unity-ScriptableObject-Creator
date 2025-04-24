@@ -1,6 +1,6 @@
 ## Unity-ScriptableObject-Creator
 
-### A lightweight ScriptableObject creation and management plugin
+### A lightweight ScriptableObject creation plugin
 
 -provide the option to gather all ScriptableObject creation context menus into a Unity window.
 
@@ -19,3 +19,11 @@
 
 ### 需要unity 2019.3版本以上
 ### Requires Unity version 2019.3 or higher.
+
+### How to use
+-Install the package
+-Open the tab /Tools/SOCreator
+
+### 如何使用
+-安装package
+-打开顶部栏 Tools/SOCreator
